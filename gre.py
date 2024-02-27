@@ -37,7 +37,7 @@ Quiz mode options:
 Toggle (W)ordsAPI
 (H)elp (or ?)
 """
-
+# hi there
 words_api_enabled = False
 words_api_token = os.getenv('WORDS_API_TOKEN')
 
